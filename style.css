@@ -119,7 +119,7 @@ ul.menu-principal {
    
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     width: 100%;
-    transition: 0.3s;
+   
 }
 
 
@@ -131,7 +131,7 @@ ul.menu-principal {
 .card p {
     color: #263b2b;
     font-size: 16px;
-    line-height: 1.6;
+   
 }
 
 
