@@ -7,7 +7,7 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
 
-    background-image: url(https://i.pinimg.com/736x/3f/c5/71/3fc5711b3ebd04f8f1139115c9b99f70.jpg);
+    background-image: url(https://i.pinimg.com/736x/a2/7b/84/a27b844e8d13023bf97cedbb1e2941e8.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -22,7 +22,7 @@ body {
     margin: auto;
 }
 
-/* CABEÇALHO */
+
 
 .cabecalho {
     background-color: #17432e;
@@ -53,7 +53,7 @@ body {
     letter-spacing: 1px;
 }
 
-/* MENU */
+
 
 nav.menu-principal {
     margin-top: 30px;
@@ -83,10 +83,10 @@ ul.menu-principal {
     background-color: #a52d32;
     color: white;
     transform: translateY(-5px);
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    
 }
 
-/* SEÇÕES */
+
 
 .secao {
     padding: 45px 0;
@@ -100,7 +100,7 @@ ul.menu-principal {
     text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.8);
 }
 
-/* CARDS */
+
 
 .grade-cards {
     display: flex;
@@ -135,7 +135,7 @@ ul.menu-principal {
 
 }
 
-/* RODAPÉ */
+
 
 .rodape {
     background-color: #17432e;
